@@ -23,6 +23,13 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://odia.ig.com.br/_midias/jpg/2019/11/26/700x930/1_churrasco-14468349.jpg",
+      "name": "Churras",
+      "price": "30",
+      "description": "Churrascos",
+      "id": 4
     }
   ]
 }
